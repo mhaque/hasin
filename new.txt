@@ -1,4 +1,12 @@
-Hello world
+
+
+
+Hellt
+@q
+:quit
+
+exit
+world
 
 Hello jopiter
 
@@ -8,3 +16,39 @@ bye bye
 
 
 accidental commit
+p
+
+
+One 
+Two 
+Three
+Four
+five
+
+
+One 
+Two 
+Three
+Four
+five
+exit
+
+exit
+wrint
+wrong:
+:wrong
+:quit
+:exit
+exit
+
+
+t
+quit
+[quit]
+:quit
+exit
+:exit
+out
+logout
+:
+
